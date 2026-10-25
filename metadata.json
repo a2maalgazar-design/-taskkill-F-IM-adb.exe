@@ -1,0 +1,6 @@
+{
+  "name": "KOMS",
+  "description": "نظام إدارة طلبات وتوريدات المطبخ الاحترافي لفرق العمل والمطاعم",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

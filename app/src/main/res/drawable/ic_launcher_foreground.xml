@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Chef Hat Base & Puffs in Amber Gold -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,26c-4.4,0 -8.2,2.4 -10.2,6 -2.4,-1.2 -5.2,-1.9 -8.2,-1.9 -7.6,0 -13.8,6.2 -13.8,13.8 0,3.2 1.1,6.1 2.9,8.5 -1.7,2.2 -2.7,4.9 -2.7,7.9 0,6.5 4.9,11.9 11.2,12.7v5.9h37.6v-5.9c6.3,-0.8 11.2,-6.2 11.2,-12.7 0,-3 -1,-5.7 -2.7,-7.9 1.8,-2.4 2.9,-5.3 2.9,-8.5 0,-7.6 -6.2,-13.8 -13.8,-13.8 -3,0 -5.8,0.7 -8.2,1.9 -2,-3.6 -5.8,-6 -10.2,-6z" />
+    <!-- Hat Band in Bright Amber -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M34,74h40v6h-40z" />
+    <!-- Order Clipboard Emblem & Checkmark -->
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M42,83h24v5h-24z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M49,56l-5,-5 -2.1,2.1 7.1,7.1 15.1,-15.1 -2.1,-2.1z" />
+</vector>
